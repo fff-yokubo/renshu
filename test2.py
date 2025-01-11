@@ -1,1 +1,1 @@
-print("hogege")
+print("shuusei")
