@@ -1,4 +1,4 @@
 
-pstr = "practice/renshuです"
+pstr = "mainです"
 
 print(pstr)
