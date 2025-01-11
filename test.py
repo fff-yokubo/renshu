@@ -1,0 +1,4 @@
+
+pstr = "mainです"
+
+print(pstr)
